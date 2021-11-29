@@ -7,5 +7,9 @@
       "**/*"
     ]
   },
-  "name": "ExpoApp"
+  "name": "ExpoApp",
+  "splash": {
+    "image": "./assets/splash.jpg",
+    "resizeMode": "contain"
+  }
 }
